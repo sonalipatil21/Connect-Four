@@ -1,6 +1,5 @@
 /*****************************************************************************
- *  Filename: Project 5a Framework.cpp
- *  Author: M. Canniff
+ *  Author: Sonali PAtil
  *  Description: Code for the COMP 51 Connect 4 tournament Project Five. 
  ****************************************************************************/
 #include <iostream>
