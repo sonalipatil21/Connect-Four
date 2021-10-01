@@ -1,6 +1,5 @@
 /*****************************************************************************
  *  Author: Sonali PAtil
- *  Description: Code for the COMP 51 Connect 4 tournament Project Five. 
  ****************************************************************************/
 #include <iostream>
 #include <string>
